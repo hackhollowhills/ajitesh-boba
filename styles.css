@@ -1,0 +1,18 @@
+h1 {
+    color: #ec3750;
+}
+.food{
+    padding-left: 10px;
+}
+#ramen-title {
+    color: #338eda;
+}
+#ramen-image {
+    margin-top: 1em;
+}
+#pasta-title{
+    color: #ff8c37;
+}
+#pasta-image{
+    border: 1px solid black;
+}
